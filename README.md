@@ -1,4 +1,4 @@
-# DNS Utilities
+# DNS Performance Reporting
 
 This is a sample Azure Function that reports query time in milliseconds for one or more DNS records. Query performance data is sent to Azure Application Insights for analysis.
 
